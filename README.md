@@ -29,7 +29,7 @@ A simple and responsive React.js web app that displays the **current temperature
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/RAHULLOHAR7/Weather-Application.git
 cd weather-app
 npm install
 npm start
@@ -63,9 +63,3 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 ## 🧑‍💻 Author
 
 Made with ❤️ by [Rahul Lohar](https://your-portfolio-link.com)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
