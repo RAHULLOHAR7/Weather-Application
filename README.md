@@ -20,16 +20,7 @@ A simple and responsive React.js web app that displays the **current temperature
 
 ---
 
-## 🖼️ Screenshot
-
-![Weather App Screenshot](screenshot.png) <!-- Replace with your actual screenshot path -->
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js, CSS
-- **API:** [OpenWeatherMap](https://openweathermap.org/api)
+## 🛠️ Tech StackOpenWeatherMap](https://openweathermap.org/api)
 
 ---
 
