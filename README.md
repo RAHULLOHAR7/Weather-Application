@@ -11,13 +11,12 @@ A simple and responsive React.js web app that displays the **current temperature
 - 🌡️ Shows current temperature
 - 📍 Real-time data using OpenWeatherMap API
 - 💻 Clean and responsive UI
-- 🌙 Dark mode support *(optional, if added)*
 
 ---
 
 ## 🚀 Demo
 
-[Live Demo](https://your-live-link.com) <!-- Replace with your actual deployed link -->
+[Live Demo](https://rahullohar-weather-app.netlify.app/) <!-- Replace with your actual deployed link -->
 
 ---
 
